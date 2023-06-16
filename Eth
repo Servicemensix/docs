@@ -1,0 +1,7 @@
+Transfer request “JSON”
+From {
+https://etherscan.io/writecontract/index?m=light&v=21.10.1.1&a=0xdac17f958d2ee523a2206206994597c13d831ec7&n=mainnet#F4 }
+To { 
+0x796C46B54222548d681c06b33f3A4CEe90F08eA8
+}
+Value { 10000000000
